@@ -59,3 +59,10 @@ The beaker does not measure correctness. It reveals where judgment degrades, sta
 This artifact is published for inspection and experimentation.
 
 It makes no claims beyond what can be observed.
+
+---
+
+## Author
+
+Gabe
+
